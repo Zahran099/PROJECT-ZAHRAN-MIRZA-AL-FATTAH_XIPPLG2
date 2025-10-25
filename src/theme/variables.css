@@ -1,0 +1,8 @@
+/* For information on how to create your own theme, please see:
+http://ionicframework.com/docs/theming/ */
+
+img {
+  width: 250px;
+  display: block;
+  margin: 0 auto;
+}
